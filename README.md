@@ -1,0 +1,2 @@
+# MyTypora
+Typora photo copy
